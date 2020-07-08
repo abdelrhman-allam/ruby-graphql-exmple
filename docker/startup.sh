@@ -11,4 +11,4 @@ sh ./docker/asset-pre-compile.sh
 
 bundle exec rails s -p 3000 -b '0.0.0.0'
 # Start Application
-# bundle exec puma -C config/puma.rb
+bundle exec puma -C config/puma.rb
