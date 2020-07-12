@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~>3.1.13'
 gem 'graphql', '1.9.17'
+gem 'rack-cors'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
